@@ -1,0 +1,44 @@
+.graybg{background:#f2f0f3;}
+.topbg{padding:10px;}
+.bodybg{background:url("images/bg.jpg") repeat-x;}
+
+ body{background-color:#175884 !important; }
+.containerbg{background:#f7fffd}
+.homeicon {
+    float: left;
+    margin-right: 10px;
+}
+
+.logo {
+    margin-left: 3px;
+    border-left: solid 1px #ccc;
+    float: left;
+    padding-left: 12px;
+}
+
+.search {
+    margin-right: 15px;
+    border-right: solid 1px #ccc;
+    padding-right: 15px;
+}
+.containerpadding{margin:0px 4%;}
+.form-header{background: #fff;
+padding: 12px;
+text-align: center;
+border-bottom: solid 1px #eee;
+margin-bottom: 10px;}
+
+.form-footer{background: #2e2e2e;
+padding: 10px;
+text-align: center;
+margin-top:10px;
+}
+
+.marr-5{margin-right:5px;}
+
+.form-container{width:90%; margin:auto;}
+
+.align-right{text-align: right;
+padding-top: 8px;
+padding-right: 0px;
+font-weight: normal;}

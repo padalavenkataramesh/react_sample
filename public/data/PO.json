@@ -1,0 +1,16 @@
+{
+    "poData": [
+        {
+            "po_number": "450000001",
+            "company_code": "USS1",
+            "document_type": "NB",
+            "vendor": "3200000000",
+            "purchase_organization": "IFRS",
+            "purchase_group": "001",
+            "pp_item": "00010",
+            "material": "11",
+            "plant": "IFRS",
+            "quantity": "3.000"
+          }
+    ]
+  }
